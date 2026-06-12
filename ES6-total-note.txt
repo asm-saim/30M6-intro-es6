@@ -5,4 +5,6 @@ ES6 common features:
 3.template-string
 4.arrow-function.(single, multiple, anonymous)
 5.spread operator.
-6.
+6. destructuring
+7.Object.keys, Object.values, Object.entries
+8. Object.freeze, Object.seal.
