@@ -1,0 +1,6 @@
+ES6 common features:
+
+1. const, let
+2. default parameter
+3.template-string
+4.arrow-function.(single, multiple, anonymous)
